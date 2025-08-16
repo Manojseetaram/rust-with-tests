@@ -1,4 +1,4 @@
-use std::{fs::{self, File}, io, path::Path};
+use std::{fs::{ File}, io, path::Path};
 
 
 //create file

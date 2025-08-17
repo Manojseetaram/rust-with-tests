@@ -3,4 +3,5 @@ pub mod file_handling{
     pub mod create_folders;
     pub mod create_files;
     pub mod delete;
+    pub mod read_files;
 }
